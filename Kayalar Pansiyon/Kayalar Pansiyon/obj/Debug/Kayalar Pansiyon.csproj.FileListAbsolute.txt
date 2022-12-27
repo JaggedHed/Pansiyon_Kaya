@@ -1,0 +1,14 @@
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\bin\Debug\Kayalar Pansiyon.exe.config
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\bin\Debug\Kayalar Pansiyon.exe
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\bin\Debug\Kayalar Pansiyon.pdb
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar Pansiyon.csproj.AssemblyReference.cache
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.Properties.Resources.resources
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar Pansiyon.csproj.GenerateResource.cache
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar Pansiyon.exe
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar Pansiyon.pdb
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.FrmYeniMusteri.resources
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.FrmAdminGiris.resources
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.FrmAnaForm.resources
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.FrmOdalar.resources
+C:\Users\eyupk\source\repos\Kayalar Pansiyon\Kayalar Pansiyon\obj\Debug\Kayalar_Pansiyon.FrmMusteriler.resources
